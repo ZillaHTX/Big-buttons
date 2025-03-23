@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Links</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 50px 20px;
+            background-color: #000;
+            color: #fff;
+        }
+        .button {
+            display: block;
+            width: 80%;
+            max-width: 400px;
+            margin: 20px auto;
+            padding: 20px;
+            text-decoration: none;
+            color: #fff;
+            background: #1DA1F2; /* X (Twitter) Blue */
+            border-radius: 12px;
+            font-size: 24px;
+            text-align: center;
+            font-weight: bold;
+        }
+        .button:hover {
+            background: #007bff; /* Hover Color */
+        }
+    </style>
+</head>
+<body>
+    <h1>Check Out My Links!</h1>
+    <a href= "https://onlyfans.com/throatzilla_htx" class="button">Visit My Site</a>
+    <a href="https://justfor.fans/Throatzillahtx" class="button">Watch My Content</a>
+    <a href="https://your-link-3.com" class="button">Follow Me</a>
+</body>
+</html>
